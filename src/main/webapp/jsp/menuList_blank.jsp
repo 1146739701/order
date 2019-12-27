@@ -68,7 +68,7 @@
 		&nbsp;|&nbsp;
 		<input type = "button" value = "添加菜品" onclick="window.location.href='/addMenu'">
 		&nbsp;|&nbsp;
-		<input type = "button" value = "管理分类" onclick="window.location.href='/showCategories'">
+		<input type = "button" value = "管理分类--liutao" onclick="window.location.href='/showCategories'">
 		&nbsp;|&nbsp;
 		<input type = "checkbox" name = "useCookie"
 		<%
