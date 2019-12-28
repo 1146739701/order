@@ -36,7 +36,7 @@
 
 <html>
 <head>
-	<title>刘涛王利***主菜单</title>
+	<title>刘涛王利主菜单</title>
 </head>
 
 <body>

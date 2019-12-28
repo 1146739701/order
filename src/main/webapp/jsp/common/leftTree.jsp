@@ -43,7 +43,7 @@
     <li <%if ("menuList".equalsIgnoreCase(_currentMenu)) {%> class='active'  <%}%>>
         <a href="/showMenus">
             <i class="icon-dashboard"></i>
-            <span class="menu-text"> 刘涛王利***主菜单</span>
+            <span class="menu-text"> 刘涛王利主菜单</span>
         </a>
     </li>
 
