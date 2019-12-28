@@ -82,7 +82,7 @@
 						<ul class="breadcrumb">
 							<li>
 								<i class="icon-dashboard"></i>
-								<a href="#">刘涛王利主菜单</a>
+								<a href="#">我的主菜单</a>
 							</li>
 						</ul><!-- .breadcrumb -->
 
